@@ -1,5 +1,5 @@
 # Title
-
+Stats preview card component
 <!-- add description of project -->
 
 ## Pre-requisite:
