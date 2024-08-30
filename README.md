@@ -1,6 +1,4 @@
-# Title
-Stats preview card component
-<!-- add description of project -->
+# Stats preview card component
 
 ## Pre-requisite:
 * System needs to be able to run npm and/or node
